@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Author](https://img.shields.io/badge/Author-Elarix%20Dreson-purple)](https://linktr.ee/elarixdreson)
+[![Author](https://img.shields.io/badge/Author-Rabah%20Mokhbi-purple)](https://www.linkedin.com/in/rabahmokhbi/)
 
 A thermodynamic VLE (Vapor-Liquid Equilibrium) calculator built on the **Peng-Robinson Equation of State (1976)** — one of the most widely used cubic EOS in the petroleum, natural gas, and chemical process industries.
 
