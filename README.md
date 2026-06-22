@@ -113,11 +113,13 @@ plot_pxy(mix, T=200.0, save=True)
 ## Sample Outputs
 
 ### Phase Envelope — Propane
-> Vapor pressure curve from ~170 K to Tc = 369.8 K
+![Phase Envelope Propane](phase_envelope_propane.png)
 
 ### P-x-y — Ethane/Propane at 300 K
-> Bubble and dew curves showing VLE behavior of the binary system
+![Pxy Ethane Propane](pxy_ethane_propane_300K.png)
 
+### P-x-y — Propane/n-Butane at 340 K
+![Pxy Propane nButane](pxy_propane_n-butane_340K.png)
 ---
 
 ## Validation
