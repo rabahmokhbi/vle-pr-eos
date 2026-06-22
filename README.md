@@ -46,7 +46,7 @@ b_mix = Σ xi·bi
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/vle-pr-eos.git
+git clone https://github.com/rabahmokhbi/vle-pr-eos.git
 cd vle-pr-eos
 pip install numpy scipy matplotlib
 ```
@@ -143,6 +143,7 @@ plot_pxy(mix, T=200.0, save=True)
 
 ## Author
 
+**Rabah Mokhbi**
 Master's Student — Pharmaceutical & Process Engineering, Université de Blida 1, Algeria  
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--8338--1466-brightgreen?logo=orcid)](https://orcid.org/0009-0004-8338-1466)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rabahmokhbi/)
