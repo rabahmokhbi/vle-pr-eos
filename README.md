@@ -141,10 +141,9 @@ plot_pxy(mix, T=200.0, save=True)
 
 ## Author
 
-**Rabah Mokhbi** — [Elarix Dreson](https://linktr.ee/elarixdreson)  
 Master's Student — Pharmaceutical & Process Engineering, Université de Blida 1, Algeria  
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--8338--1466-brightgreen?logo=orcid)](https://orcid.org/0009-0004-8338-1466)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/rabah-mokhbi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rabahmokhbi/)
 
 ---
 
